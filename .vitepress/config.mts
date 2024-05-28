@@ -2,8 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "iCopy-Rust",
-  description: "一个基于 Tauri Vue3 的粘贴板工具",
+  title: "iCopy",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [

@@ -4,7 +4,7 @@ layout: home
 
 hero:
   name: 'iCopy'
-  text: '一个基于 Tauri Vue3 的粘贴板工具'
+  text: '一个基于 Tauri 的粘贴板工具'
   tagline: Make Copy Great Again！！！
   actions:
     - theme: brand
